@@ -1,4 +1,4 @@
----
+---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
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
 versions:
